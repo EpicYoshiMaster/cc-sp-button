@@ -1,2 +1,5 @@
-# cc-sp-button
- CrossCode mod to give yourself free SP.
+# SP Button
+ Press Button. Get SP.
+
+## Dependencies
+- input-api (for Hotkeys): https://github.com/CCDirectLink/input-api
