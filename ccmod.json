@@ -1,0 +1,11 @@
+{
+	"id": "yoshi-sp-button",
+	"version": "1.0.0",
+	"module": true,
+	"title": "SP Button",
+	"description": "Press Button. Get SP.",
+	"prestart": "prestart.js",
+	"dependencies": {
+		"input-api": "^1.0.0"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"labels": {
+		"options": {
+			"headers": {
+				"free-sp": "SP Button"
+			},
+
+			"controls": {
+				"keys": {
+					"free-sp": "Give SP"
+				}
+			}
+		}
+	}
+}
